@@ -3,6 +3,7 @@ public class GithubHelloWorld {
 
         System.out.println("Hello World");
         helloWorld();
+        Logan();
     }
 
     public static void helloWorld(){
@@ -10,6 +11,10 @@ public class GithubHelloWorld {
         System.out.println("Hello Github World");
     }
 
+    public static void Logan(){
+
+        System.out.println("This is Logan");
+    }
 
 
 
